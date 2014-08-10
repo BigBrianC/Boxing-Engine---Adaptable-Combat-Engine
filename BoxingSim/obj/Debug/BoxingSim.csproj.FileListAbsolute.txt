@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\BoxingSim\BoxingSim\bin\Debug\BoxingSim.exe.config
+c:\users\user\documents\visual studio 2013\Projects\BoxingSim\BoxingSim\bin\Debug\BoxingSim.exe
+c:\users\user\documents\visual studio 2013\Projects\BoxingSim\BoxingSim\bin\Debug\BoxingSim.pdb
+c:\users\user\documents\visual studio 2013\Projects\BoxingSim\BoxingSim\obj\Debug\BoxingSim.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\BoxingSim\BoxingSim\obj\Debug\BoxingSim.exe
+c:\users\user\documents\visual studio 2013\Projects\BoxingSim\BoxingSim\obj\Debug\BoxingSim.pdb
